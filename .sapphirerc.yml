@@ -1,4 +1,4 @@
-projectLanguage: "ts"
+projectLanguage: ts
 locations:
   base: src
   arguments: arguments
@@ -7,4 +7,4 @@ locations:
   preconditions: preconditions
 customFileTemplates:
   enabled: false
-  location: ""
+  location: ''
