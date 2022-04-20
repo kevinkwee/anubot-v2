@@ -1,0 +1,21 @@
+{
+    "category": "commands"
+}
+---
+import { ApplyOptions } from '@sapphire/decorators';
+import { SubCommandPluginCommand, SubCommandPluginCommandOptions } from '@sapphire/plugin-subcommands';
+import { getDefaultPrefix } from '../lib/utils';
+import type { Message } from 'discord.js';
+
+@ApplyOptions<SubCommandPluginCommandOptions>({
+	aliases: [],
+	description: '',
+	detailedDescription: getDefaultPrefix() + ' {{name}}',
+	fullCategory: [],
+	preconditions: ['GuildOnly']
+})
+export class {{name}}Command extends SubCommandPluginCommand {
+	public async messageRun(message: Message) {
+		return message.channel.send('Hello world!');
+	}
+}

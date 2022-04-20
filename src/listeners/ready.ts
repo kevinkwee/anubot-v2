@@ -1,6 +1,7 @@
 import type { ListenerOptions, PieceContext } from '@sapphire/framework';
 import { Listener, Store } from '@sapphire/framework';
 import { blue, gray, green, magenta, magentaBright, white, yellow } from 'colorette';
+import type { Client } from 'discord.js';
 
 const dev = process.env.NODE_ENV !== 'production';
 
@@ -14,7 +15,9 @@ export class UserEvent extends Listener {
 		});
 	}
 
-	public run() {
+	public run(client: Client) {
+		const { username, id } = client.user!;
+		this.container.logger.info(`Successfully logged in as ${green(username)} (${magenta(id)}).`);
 		this.printBanner();
 		this.printStoreDebugInformation();
 	}

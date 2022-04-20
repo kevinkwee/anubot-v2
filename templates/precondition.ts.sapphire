@@ -1,0 +1,18 @@
+{
+    "category": "preconditions"
+}
+---
+import { Precondition } from '@sapphire/framework';
+import type { Message } from 'discord.js';
+
+export class {{name}}Precondition extends Precondition {
+  public run(message: Message) {
+    return this.ok();
+  }
+}
+
+declare module '@sapphire/framework' {
+  interface Preconditions {
+    ClientIsNotInVoiceChannel: never;
+  }
+}

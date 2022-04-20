@@ -1,0 +1,30 @@
+{
+    "cookie": {
+        "VISITOR_INFO1_LIVE": "edBsA-3EuzU",
+        "PREF": "tz=Asia.Jakarta&f6=40000000",
+        "YSC": "HG9GC-ubmQA",
+        "SID": "JAiNvWifl3CV2OxL1YMHaHLF5jvXL2iXPeyUvr5jOwnfFB_2d0_JlnJFXW5e7hcL2PFfWQ.",
+        "HSID": "AmkOLotjIimmil17A",
+        "SSID": "Av3ZAXNeZpp3lmDFD",
+        "APISID": "tBC_PyUolB2YSrrA/AemuLefiWiuvs22dp",
+        "SAPISID": "GXV3ydUB-UzjIuip/AFbkt7t3k-cyYUWer",
+        "SIDCC": "AJi4QfGA0BxgMwEHP0P4RYndHO97zWe7XvFFwiCdylzz9h_EhmjsdIhmSZA9apkK5H_HhbNWA2A",
+        "CONSISTENCY": "AGDxDeMtDx_rMuV2dIKowsqXuEkPjJiOpKhX1NRD91Owp0ZqyhwyoibMa56H0a7XyZfVxtElnPZf9-0AE_uoel8A918Fq2V2g6NPGja3Hla9RWxmKw8Y_YfTKmYrCm2_iXwfDXMvDKdwTMjKa97LGg-y",
+        "__Secure-1PSID": "JAiNvWifl3CV2OxL1YMHaHLF5jvXL2iXPeyUvr5jOwnfFB_214cvw5W73DNjy1-36AIRHw.",
+        "Domain": ".youtube.com",
+        "Path": "/",
+        "Expires": "Sat, 15-Oct-2022 06:39:49 GMT",
+        "Priority": "HIGH",
+        "__Secure-3PSID": "JAiNvWifl3CV2OxL1YMHaHLF5jvXL2iXPeyUvr5jOwnfFB_2DjA99iz6kR4uuqSHxl1uDg.",
+        "SameSite": "none",
+        "__Secure-1PAPISID": "GXV3ydUB-UzjIuip/AFbkt7t3k-cyYUWer",
+        "__Secure-3PAPISID": "GXV3ydUB-UzjIuip/AFbkt7t3k-cyYUWer",
+        "LOGIN_INFO": "AFmmF2swRQIgf_qxBkXXl7xU1RkaoVfE-T1dIHM1VKBhKFBKrkEEWakCIQCluXLt8bLdGCZ2Mla40IWVNu3LCJGleJKw7y_5fliVKA:QUQ3MjNmdzZrUEo4RFRSOGFGNlNsTldUSHBNbGlQUXd0NFNIQW1LeGZuVi1rRVdpZ0pCQmpxQUlCWmRaVHFwUTU1X293M0NKLWp1YlRBa0twQkNqQjhsWnM3UVhpZnNLemt2Q0JLVElzS1BYSHd0ZWVIMmRJVnplS3hhU3o4eURPNXFKN3hqN003RjRRVzhCcktYLV82MmcxX1N2Smw2T0FB",
+        "expires": "Thu, 20-Apr-2023 06:24:04 GMT",
+        "path": "/",
+        "domain": ".youtube.com",
+        "priority": "high",
+        "__Secure-3PSIDCC": "AJi4QfGOoXKKAg0bJ-VidfXrijKIQ-tZ8bNvP9FP3HlD5bOiiO0gndNl1SKxcTJ3s7-XMIQr"
+    },
+    "file": true
+}
