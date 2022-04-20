@@ -223,9 +223,9 @@ export class MusicPlayer {
                 this.queue = this.loopedQueue;
                 this.loopedQueue = [];
             }
-
-            this.processQueue();
         }
+
+        this.processQueue();
     }
 
     private onError(error: Error, audioResourceMetadata: Track) {
