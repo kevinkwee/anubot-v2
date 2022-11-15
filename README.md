@@ -1,4 +1,4 @@
-# AnuBor
+# AnuBot
 
 A Discord bot using the [sapphire framework][sapphire] written in TypeScript
 
